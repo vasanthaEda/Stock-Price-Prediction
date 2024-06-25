@@ -1,0 +1,2 @@
+1)Python 3.x (For Jupyter Notebook)
+2)Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn, tensorflow (for LSTM models) 
